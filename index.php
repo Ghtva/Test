@@ -4,7 +4,6 @@
 <html lang="ru">
   <head>
     <meta charset="UTF-8">
-    <title>Интернет-магазин товаров для дома</title>
     <link href="style.css" rel="stylesheet">
   </head>
 
